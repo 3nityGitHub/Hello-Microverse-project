@@ -1,22 +1,4 @@
 {
-  "name": "html-css",
-  "version": "1.0.0",
-  "description": "Major languages\r Frameworks\r Technologies used\r # Author1",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/3nityGitHub/Hello-Microverse-project.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/3nityGitHub/Hello-Microverse-project/issues"
-  },
-  "homepage": "https://github.com/3nityGitHub/Hello-Microverse-project#readme",
   "devDependencies": {
     "hint": "^7.1.2",
     "stylelint": "^13.13.1",
